@@ -1,6 +1,6 @@
 # 🌐 [Getting Started with Mistral](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/)
 
-🔍 Dive into the world of Mistral AI with the "Getting Started with Mistral" course! Led by Sophia Yang, Head of Developer Relations at Mistral AI, this course will walk you through accessing and utilizing Mistral's collection of open-source and commercial models for various tasks.
+🔍 Dive into the world of Mistral AI with the "Getting Started with Mistral" course! This course will walk you through accessing and utilizing Mistral's collection of open-source and commercial models for various tasks.
 
 ## Course Summary
 In this course, you'll explore Mistral AI's diverse collection of open-source and commercial models, including the Mixtral 8x7B and Mixtral 8x22B models. Here's what you'll learn:
